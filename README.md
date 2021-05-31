@@ -1,0 +1,5 @@
+# russianDraughtsVersus
+A PvP game of Russian draughts/checkers on the same device
+
+# Usage
+This was designed primarily to be played on mobile devices, where two people would play against each other on the same screen. There's no AI, so no playing against the computer here.
